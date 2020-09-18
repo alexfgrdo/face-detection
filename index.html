@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <link rel="stylesheet" href="css/style.css" />
+
+    <title>Face Detection</title>
+  </head>
+  <body>
+    <video id="video" width="720" height="560" autoplay muted></video>
+    <div>
+      <h1>Age</h1>
+      <h2 id="age"></h2>
+
+      <br />
+
+      <h1>Gender</h1>
+      <h2 id="gender"></h2>
+    </div>
+
+    <script defer src="js/lib/face-api.min.js"></script>
+    <script defer src="js/app.js"></script>
+  </body>
+</html>
