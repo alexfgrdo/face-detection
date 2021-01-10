@@ -16,7 +16,7 @@
 
 ## Authors
 
-**Alexandre Figueiredo** - _Initial work_ - [alexfgrdo](https://github.com/alexfgrdo)
+**Alexandre Figueiredo** - _Initial work_ - [thelittlebigbot](https://github.com/thelittlebigbot)
 
 ## License
 
